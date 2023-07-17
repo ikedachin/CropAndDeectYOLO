@@ -1,0 +1,1029 @@
+{
+  "version": "5.2.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "peech mango",
+      "points": [
+        [
+          54.0,
+          226.0
+        ],
+        [
+          434.0,
+          546.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "peech mango",
+      "points": [
+        [
+          234.0,
+          110.0
+        ],
+        [
+          582.0,
+          482.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "peech mango",
+      "points": [
+        [
+          6.0,
+          358.0
+        ],
+        [
+          246.0,
+          634.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "peech mango",
+      "points": [
+        [
+          6.0,
+          606.0
+        ],
+        [
+          418.0,
+          994.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "peech mango",
+      "points": [
+        [
+          6.0,
+          850.0
+        ],
+        [
+          150.0,
+          1074.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "peech mango",
+      "points": [
+        [
+          18.0,
+          914.0
+        ],
+        [
+          354.0,
+          1262.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "new jumbo",
+      "points": [
+        [
+          606.0,
+          122.0
+        ],
+        [
+          1278.0,
+          478.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "new jumbo",
+      "points": [
+        [
+          610.0,
+          430.0
+        ],
+        [
+          1258.0,
+          738.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "jumbo",
+      "points": [
+        [
+          522.0,
+          742.0
+        ],
+        [
+          1214.0,
+          1062.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "jumbo",
+      "points": [
+        [
+          522.0,
+          1046.0
+        ],
+        [
+          1206.0,
+          1286.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pino",
+      "points": [
+        [
+          1326.0,
+          330.0
+        ],
+        [
+          1674.0,
+          898.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pino",
+      "points": [
+        [
+          1674.0,
+          358.0
+        ],
+        [
+          2014.0,
+          858.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "pino",
+      "points": [
+        [
+          1274.0,
+          826.0
+        ],
+        [
+          1658.0,
+          1338.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "spice chocolate",
+      "points": [
+        [
+          1650.0,
+          786.0
+        ],
+        [
+          1982.0,
+          1302.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "garigari pine",
+      "points": [
+        [
+          2046.0,
+          150.0
+        ],
+        [
+          2786.0,
+          462.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "garigari pine",
+      "points": [
+        [
+          2074.0,
+          398.0
+        ],
+        [
+          2718.0,
+          750.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "garigari pine",
+      "points": [
+        [
+          2066.0,
+          730.0
+        ],
+        [
+          2666.0,
+          950.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "garigari soda",
+      "points": [
+        [
+          2058.0,
+          902.0
+        ],
+        [
+          2698.0,
+          1106.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "garigari soda",
+      "points": [
+        [
+          2074.0,
+          1010.0
+        ],
+        [
+          2810.0,
+          1294.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yukimi komeda",
+      "points": [
+        [
+          2874.0,
+          2.0
+        ],
+        [
+          3454.0,
+          330.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yukimi komeda",
+      "points": [
+        [
+          2810.0,
+          134.0
+        ],
+        [
+          3434.0,
+          426.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yukimi komeda",
+      "points": [
+        [
+          2846.0,
+          370.0
+        ],
+        [
+          3454.0,
+          630.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yukimi daifuku",
+      "points": [
+        [
+          2922.0,
+          602.0
+        ],
+        [
+          3538.0,
+          966.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "yukimi daifuku",
+      "points": [
+        [
+          2894.0,
+          962.0
+        ],
+        [
+          3522.0,
+          1274.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "kokubata",
+      "points": [
+        [
+          3574.0,
+          118.0
+        ],
+        [
+          4018.0,
+          578.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ita choco",
+      "points": [
+        [
+          3638.0,
+          538.0
+        ],
+        [
+          3978.0,
+          1286.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ita choco",
+      "points": [
+        [
+          3898.0,
+          514.0
+        ],
+        [
+          4031.0,
+          1290.840909090909
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "azuki",
+      "points": [
+        [
+          6.0,
+          1434.0
+        ],
+        [
+          362.0,
+          1626.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "azuki",
+      "points": [
+        [
+          10.0,
+          1598.0
+        ],
+        [
+          310.0,
+          1870.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "azuki",
+      "points": [
+        [
+          6.0,
+          1826.0
+        ],
+        [
+          334.0,
+          2062.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "azuki",
+      "points": [
+        [
+          6.0,
+          2038.0
+        ],
+        [
+          170.0,
+          2346.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "shima uma bar",
+      "points": [
+        [
+          338.0,
+          1482.0
+        ],
+        [
+          1130.0,
+          1878.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "shima uma bar",
+      "points": [
+        [
+          422.0,
+          1166.0
+        ],
+        [
+          1174.0,
+          1574.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "shima uma bar",
+      "points": [
+        [
+          326.0,
+          1746.0
+        ],
+        [
+          1018.0,
+          2262.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "shima uma bar",
+      "points": [
+        [
+          102.0,
+          2098.0
+        ],
+        [
+          986.0,
+          2798.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "parm",
+      "points": [
+        [
+          202.0,
+          2430.0
+        ],
+        [
+          754.0,
+          2758.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "whitepeach cream cheese",
+      "points": [
+        [
+          1286.0,
+          1354.0
+        ],
+        [
+          1998.0,
+          1622.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "whitepeach cream cheese",
+      "points": [
+        [
+          1242.0,
+          1574.0
+        ],
+        [
+          1978.0,
+          1882.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "whitepeach cream cheese",
+      "points": [
+        [
+          1234.0,
+          1830.0
+        ],
+        [
+          1794.0,
+          2046.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ramune bar",
+      "points": [
+        [
+          1166.0,
+          2454.0
+        ],
+        [
+          1954.0,
+          2822.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ramune bar",
+      "points": [
+        [
+          1218.0,
+          2274.0
+        ],
+        [
+          1934.0,
+          2486.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ramune bar",
+      "points": [
+        [
+          1282.0,
+          1926.0
+        ],
+        [
+          1946.0,
+          2282.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "ramune bar",
+      "points": [
+        [
+          1274.0,
+          1834.0
+        ],
+        [
+          1958.0,
+          2150.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "papico",
+      "points": [
+        [
+          2054.0,
+          1350.0
+        ],
+        [
+          2814.0,
+          1670.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "papico",
+      "points": [
+        [
+          2146.0,
+          1642.0
+        ],
+        [
+          2814.0,
+          1890.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "papico",
+      "points": [
+        [
+          2038.0,
+          1714.0
+        ],
+        [
+          2826.0,
+          2234.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "fuits of ice",
+      "points": [
+        [
+          2074.0,
+          2130.0
+        ],
+        [
+          2494.0,
+          2558.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "fuits of ice",
+      "points": [
+        [
+          2286.0,
+          2486.0
+        ],
+        [
+          2986.0,
+          2846.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "fuits of ice",
+      "points": [
+        [
+          2262.0,
+          2322.0
+        ],
+        [
+          2922.0,
+          2606.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "super cup choco mint",
+      "points": [
+        [
+          2886.0,
+          1366.0
+        ],
+        [
+          3274.0,
+          1734.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "super cup choco mint",
+      "points": [
+        [
+          3218.0,
+          1402.0
+        ],
+        [
+          3582.0,
+          1762.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "super cup choco mint",
+      "points": [
+        [
+          2926.0,
+          1682.0
+        ],
+        [
+          3394.0,
+          2166.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "super cup choco mint",
+      "points": [
+        [
+          3330.0,
+          1726.0
+        ],
+        [
+          3742.0,
+          2154.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "super cup banilla",
+      "points": [
+        [
+          2966.0,
+          2118.0
+        ],
+        [
+          3402.0,
+          2602.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "super cup banilla",
+      "points": [
+        [
+          3550.0,
+          2106.0
+        ],
+        [
+          4010.0,
+          2590.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "super cup banilla",
+      "points": [
+        [
+          3410.0,
+          2106.0
+        ],
+        [
+          3658.0,
+          2566.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "super cup banilla",
+      "points": [
+        [
+          3354.0,
+          2542.0
+        ],
+        [
+          3862.0,
+          2858.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "super cup banilla",
+      "points": [
+        [
+          2990.0,
+          2526.0
+        ],
+        [
+          3374.0,
+          2874.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mow",
+      "points": [
+        [
+          3586.0,
+          1478.0
+        ],
+        [
+          3978.0,
+          1818.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    },
+    {
+      "label": "mow",
+      "points": [
+        [
+          3674.0,
+          1778.0
+        ],
+        [
+          4031.0,
+          2111.717391304348
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "rectangle",
+      "flags": {}
+    }
+  ],
+  "imagePath": "IMG_3895.jpg",
+  "imageHeight": 3024,
+  "imageWidth": 4032
+}
