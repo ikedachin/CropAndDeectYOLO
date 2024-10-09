@@ -38,12 +38,12 @@ opencv-python:418.0.741
 ### ファイル構成
 
 CropAndDetectYOLO/  
-　├ croped_data/  
+　├ croped_data/  # 実行結果例
 　|　  ├ check_croping  
 　|　  └ imagss     # folder to save croped images  
 　|　  └ labels     # folder to save YOLO text files for croped images  
 　|　  
-　├ data/   
+　├ data/
 　|　  ├ *.jpg      # big size image  
 　|　  └ *.json     # json file create from labelme  
 　|　  ├ *.jpg      # big size image  
@@ -52,4 +52,4 @@ CropAndDetectYOLO/
 　|　  └ *.json     # json file create from labelme  
 　|　  
 　├ readme.md  
-　├ crop_and_detect_YOLO.ipynb
+　├ ****.ipynb
